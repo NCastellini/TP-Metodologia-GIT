@@ -7,13 +7,3 @@ git revert HEAD                 # revierte el último commit
 ```
 
 ## Ejemplo en nuestro repositorio
-
-### `git log --oneline`
-```
-70de0ea (HEAD -> alumno_sanger, origin/alumno_sanger) docs: agrega explicacion de git revert
-```
-
-### `git revert`
-```
-git revert 70de0ea
-``` 
