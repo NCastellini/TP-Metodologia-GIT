@@ -21,7 +21,8 @@ git branch
 Salida de ejemplo:
 
 ```text
-
+* main
+  dev
   NCastellini
 ```
 
