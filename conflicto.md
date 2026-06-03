@@ -51,7 +51,17 @@ Elegimos que modificación hacer:
   
 ![alt text](imagenes/image3.png)
 
-Guardamos el archivo, y finalizamos con un commit para el merge:
+Guardamos el archivo, y finalizamos con un commit automático para el merge:
 ```
-git commit -m"Merge branch 'dev' of https://github.com/NCastellini/TP-Metodologia-GIT into dev"
+"Merge branch 'dev' of https://github.com/NCastellini/TP-Metodologia-GIT into dev"
+```
+
+### Hash antes del conflicto
+```
+e2ec11e docs: explicacion de conflicto
+```
+
+### Hash después del conflicto
+```
+a6d41d9 Merge branch 'dev' of https://github.com/NCastellini/TP-Metodologia-GIT into dev
 ```
