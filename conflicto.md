@@ -1,9 +1,6 @@
-esto es un comflicto de prueba
-de 
-nazareno negrete
-asi que 
-veamos que 
-sale 
-con esta 
-cosa maravillosa
+# Conflicto
+
+Un conflicto ocurre cuando git no puede fusionar los cambios de dos ramas porque existen modificaciones incompatibles entre ellas.
+
+
 
