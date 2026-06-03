@@ -19,14 +19,14 @@ El objetivo del trabajo es aplicar buenas prácticas de control de versiones uti
 
 ## Contenido
 
-* [Git Init](git-init.md)
-* [Git Clone](git-clone.md)
-* [Git Add](git-add.md)
-* [Git Commit](git-commit.md)
-* [Git Branch](git-branch.md)
-* [Git Checkout](git-checkout.md)
-* [Git Merge](git-merge.md)
-* [Git Rebase](git-rebase.md)
-* [Git Revert](git-revert.md)
+* [Git Init](init.md)
+* [Git Clone](clone.md)
+* [Git Add](add.md)
+* [Git Commit](commit.md)
+* [Git Branch](branch.md)
+* [Git Checkout](checkout.md)
+* [Git Merge](merge.md)
+* [Git Rebase](rebase.md)
+* [Git Revert](revert.md)
 * [Estadísticas](estadisticas.md)
 * [Uso de IA](IA.md)
