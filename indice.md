@@ -1,32 +1,22 @@
-# Trabajo Práctico Git
+# Contenido
 
-## Materia
-
-Metodología de Sistemas I
-
-## Integrantes
-
-* Alejo Sanger
-* Nazareno Negrete
-* Nicolás Castellini
-
-
-
-## Introducción
-
-Este repositorio contiene explicaciones sobre distintos comandos de Git utilizados durante la cursada de Metodología de Sistemas I.
-El objetivo del trabajo es aplicar buenas prácticas de control de versiones utilizando Git y GitHub de manera colaborativa.
-
-## Contenido
-
-* [Git Init](git-init.md)
-* [Git Clone](git-clone.md)
-* [Git Add](git-add.md)
-* [Git Commit](git-commit.md)
-* [Git Branch](git-branch.md)
-* [Git Checkout](git-checkout.md)
-* [Git Merge](git-merge.md)
-* [Git Rebase](git-rebase.md)
-* [Git Revert](git-revert.md)
+* [Git Add](Comandos_generales/add.md)
+* [Git Branch](Comandos_Movimiento/branch.md)
+* [Git Checkout](Comandos_Generales/checkout.md)
+* [Git Clone](Comandos_Generales/clone.md)
+* [Git Commit](Comandos_Generales/commit.md)
+* [Git Conflicto](Comandos_Informativos/conflicto.md)
+* [Git diff](Comandos_Informativos/diff.md)
 * [Estadísticas](estadisticas.md)
+* [Git fetch](Comandos_Informativos/fetch.md)
 * [Uso de IA](IA.md)
+* [Git Init](init.md)
+* [Git Log](Comandos_Informativos/log.md)
+* [Git Merge](Comandos_Movimiento/merge.md)
+* [Git Pull](Comandos_Generales/pull.md)
+* [Git Push](Comandos_Generales/push.md)
+* [Git Rebase](Comandos_Movimiento/rebase.md)
+* [Git Remote](Comandos_Movimientoremote.md)
+* [Git Revert](Comandos_Movimiento/revert.md)
+* [Git Status](Comandos_Informativos/status.md)
+* [Git Switch](Comandos_generales/switch.md)
