@@ -41,15 +41,15 @@ Git marca las dos versiones en conflicto dentro del archivo afectado:
 ## En nuestro Repositorio
 Al hacer push salta el error:
   
-![alt text](imagenes/image.png)
+![alt text](../imagenes/image.png)
 
 Entonces traemos los conflictos con git pull.
   
-![alt text](imagenes/image2.png)
+![alt text](../imagenes/image2.png)
 
 Elegimos que modificación hacer:
   
-![alt text](imagenes/image3.png)
+![alt text](../imagenes/image3.png)
 
 Guardamos el archivo, y finalizamos con un commit automático para el merge:
 ```

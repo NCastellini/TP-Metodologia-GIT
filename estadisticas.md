@@ -21,25 +21,25 @@ Si bien este es el commit con mayor cantidad de archivos modificados, el commit 
 ![alt text](imagenes/image4.png)
 
 
-# Cantidad de comandos realizados:
+### Cantidad de comandos realizados:
 comando utilizado: (git log --oneline --merges).Count
 resultado 9
 
-# Cantidad de commits (al momento de hacer esto ya que despues van a aumentar)
+### Cantidad de commits (al momento de hacer esto ya que despues van a aumentar)
 comando utilizado: git shortlog -sn --all
 resultado:
     24  Nicolas Castellini
-    16  Sanger
+    17  Sanger
     18  Negrete nazareno
 
-# cantidad de Ramas:
+### cantidad de Ramas:
 1- main
 2- dev
 3- Negrete_Rama
-4- NCastellini_Rama
-5- Sanger_Rama
+4- NCastellini
+5- alumno_sanger
 
 
-# Alumno con mas commits:
+### Alumno con mas commits:
 Nicolas Castellini con 24 commits (al dia de hacer esto)
 
