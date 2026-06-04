@@ -29,7 +29,7 @@ resultado 9
 comando utilizado: git shortlog -sn --all
 resultado:
     24  Nicolas Castellini
-    17  Sanger
+    18  Sanger
     18  Negrete nazareno
 
 ### cantidad de Ramas:
