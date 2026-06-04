@@ -30,7 +30,7 @@ comando utilizado: git shortlog -sn --all
 resultado:
     24  Nicolas Castellini
     16  Sanger
-    13  NaxarenoXNT
+    18  Negrete
 
 # cantidad de Ramas:
 1- main
