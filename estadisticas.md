@@ -28,7 +28,7 @@ resultado 9
 ### Cantidad de commits (al momento de hacer esto ya que despues van a aumentar)
 comando utilizado: git shortlog -sn --all
 resultado:
-    31  Nicolas Castellini
+    32  Nicolas Castellini
     23  NaxarenoXNT
     21  Sanger
        
@@ -57,8 +57,10 @@ resultado:
 21- feature/comando-fetch
 22- feature/comando-diff
 23- feature/comando-checkout
+24- feature/conflictos
+25- feature/comando-revert
 
 
 ### Alumno con mas commits:
-Nicolas Castellini con 31 commits (al dia de hacer esto)
+Nicolas Castellini con 32 commits (al dia de hacer esto)
 
