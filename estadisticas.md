@@ -1,8 +1,8 @@
 ### Commit con mayor cantidad de archivos modificados
 
-Hash: e96bd775558400e5ba387ad0332a21b3a83f1074
+Hash: 3760ecaf22c694ff5058b72da0ace5c9c23dc5ef
 
-Cantidad de archivos modificados: 16
+Cantidad de archivos modificados: 18
 
 Comando utilizado:
 
@@ -13,7 +13,7 @@ git log --stat
 ### Observacion
 
 ```
-Si bien este es el commit con mayor cantidad de archivos modificados, el commit 0d9236f7d4282a5ede6ed4958e5d620034a0f3da presenta un diff más representativo, ya que incluye modificaciones de contenido sobre 4 archivos:
+Si bien este fue el commit con mayor cantidad de archivos modificados (18 archivos), el commit 0d9236f7d4282a5ede6ed4958e5d620034a0f3da resulta más representativo para mostrar un diff, ya que contiene modificaciones de contenido e imágenes asociadas a la documentación de conflictos.
 
 ```
 ### Captura: 
@@ -28,18 +28,37 @@ resultado 9
 ### Cantidad de commits (al momento de hacer esto ya que despues van a aumentar)
 comando utilizado: git shortlog -sn --all
 resultado:
-    24  Nicolas Castellini
-    18  Sanger
-    18  Negrete nazareno
+    31  Nicolas Castellini
+    23  NaxarenoXNT
+    21  Sanger
+       
 
 ### cantidad de Ramas:
 1- main
 2- dev
 3- Negrete_Rama
 4- NCastellini
-5- alumno_sanger
+5- alumno_sanger  
+6- feature/comando-add
+7- feature/comando-branch
+8- feature/comando-clone
+9- feature/comando-commit
+10- feature/comando-init
+11- feature/comando-remote
+12- feature/estadisticas  
+13- feature/documentacion-ia  
+14- feature/comando-switch 
+15- feature/comando-status
+16- feature/comando-rebase
+17- feature/comando-push
+18- feature/comando-pull
+19- feature/comando-merge
+20- feature/comando-log
+21- feature/comando-fetch
+22- feature/comando-diff
+23- feature/comando-checkout
 
 
 ### Alumno con mas commits:
-Nicolas Castellini con 24 commits (al dia de hacer esto)
+Nicolas Castellini con 31 commits (al dia de hacer esto)
 
