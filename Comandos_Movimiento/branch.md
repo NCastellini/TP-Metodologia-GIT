@@ -43,3 +43,10 @@ Crear una rama llamada `NCastellini`:
 git branch NCastellini
 ```
 
+## Ejemplo
+
+```bash
+git branch nueva-rama
+```
+
+Permite crear una nueva rama local.
