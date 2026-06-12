@@ -3,3 +3,4 @@ todo fue hecho por nuestras manos, simplemente usamos la IA para ayudar en la pl
 
 pd: y para corregir un bug en el VScode de uno de los integrantes ya que no le aparecia la opcion para corregir los cambios dentro de un conflico 
 rarisimo, pero bueno 
+
