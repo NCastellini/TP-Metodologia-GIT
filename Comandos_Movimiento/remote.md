@@ -43,3 +43,10 @@ Luego incorporo los cambios de la rama `dev` a mi rama actual:
 ```bash
 git merge origin/dev
 ```
+## Ver remotos configurados
+
+```bash
+git remote -v
+```
+
+Muestra los repositorios remotos asociados al proyecto.
