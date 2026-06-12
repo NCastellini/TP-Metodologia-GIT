@@ -29,3 +29,10 @@ Durante este trabajo práctico, después de crear y agregar el archivo `branch.m
 git add branch.md
 git commit -m "docs: agregar explicación de git branch"
 ```
+## Ejemplo
+
+```bash
+git commit -m "feat: agregar funcionalidad"
+```
+
+Crea un commit con un mensaje descriptivo.
