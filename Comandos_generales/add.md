@@ -37,3 +37,10 @@ Agregar todos los cambios:
 ```bash
 git add .
 ```
+## Ejemplo
+
+```bash
+git add archivo.txt
+```
+
+Permite agregar un archivo específico al área de preparación.
