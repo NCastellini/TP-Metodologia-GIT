@@ -17,3 +17,11 @@ Para descargar el repositorio del trabajo práctico desde GitHub:
 ```bash
 git clone https://github.com/usuario/trabajo-practico-git.git
 ```
+
+## Ejemplo
+
+```bash
+git clone https://github.com/usuario/repositorio.git
+```
+
+Clona el repositorio remoto en la máquina local.
