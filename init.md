@@ -22,3 +22,10 @@ cd MiProyecto
 git init
 ```
 
+## Ejemplo
+
+```bash
+git init
+```
+
+Inicializa un repositorio Git en el directorio actual.
